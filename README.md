@@ -38,7 +38,7 @@ No matter your editor, your language, or your stack — if GitHub is part of how
 
 ## 🌍 Events
 
-GDC is a **multi‑city meetup series**. We're bringing together builders, maintainers, and developers across growing tech communities for evenings focused on modern GitHub‑powered workflows, open tooling, and hands‑on learning.
+GitHub Copilot Dev Days Canada is a **multi‑city meetup series**. We're bringing together builders, maintainers, and developers across growing tech communities for evenings focused on modern GitHub‑powered workflows, open tooling, and hands‑on learning.
 
 Stay tuned for upcoming events in your city!
 
@@ -46,7 +46,7 @@ Stay tuned for upcoming events in your city!
 
 - ⭐ **Star this repo** to stay in the loop
 - 🗣️ **Suggest a talk or demo** by opening an [Issue](../../issues)
-- 📣 **Spread the word** — share GDC with your dev friends
+- 📣 **Spread the word** — share GitHub Copilot Dev Days Canada with your dev friends
 
 ## 📜 Code of Conduct
 
@@ -57,5 +57,5 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 <p align="center">
   <img src="images/GitHub-Symbol.png" alt="GitHub" width="40" />
   <br/>
-  <sub>Built with 💜 by the GitHub Dev Club community</sub>
+  <sub>Built with 💜 by the GitHub Dev community</sub>
 </p>
